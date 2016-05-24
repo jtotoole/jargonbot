@@ -63,9 +63,9 @@ nouns = ['action items', 'alignments', 'applications', 'architectures', 'bandwid
 'sources', 'strategic theme areas', 'supply chains', 'synergy', 'systems', 'technologies', 'technology',
 'testing procedures', 'total linkage', 'users', 'value', 'vortals', 'web-readiness', 'web services', 'fungibility', 'clouds', 'nosql', 'storage']
 
-worst_offenders = ['synergy', 'synergize', 'synergies', 'synergistically',
-                   'mindshare', 'stakeholders', 'win-win', 'holisticly', 'holistic',
-                   'strategic', 'best practice', 'best practices', 'turnkey']
+worst_offenders = ['synergy', 'synergize', 'synergies', 'synergistically', 'circle back', 'sync up',
+                   'mindshare', 'streamline', 'stakeholders', 'win-win', 'holisticly', 'holistic',
+                   'strategic', 'best practice', 'best practices', 'turnkey', 'cloud', 'big data', 'close the loop']
 
 shuffle = (a) ->
   for i in [a.length-1..1]

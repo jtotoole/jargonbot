@@ -1,9 +1,9 @@
 {
   "name": "jargonbot",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
   "author": "James OToole <jtotoole@gmail.com>",
-  "description": "A tool for collaboratively streamlining interoffice communication",
+  "description": "Seamlessly streamlining your Slack communications",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
