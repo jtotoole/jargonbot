@@ -1,7 +1,12 @@
 # jargonbot
 
 Jargonbot is a tool for seamlessly synergizing your Slack communications. When it hears a term from 
-an array of business buzzwords, it responds with a random string of streamlined collaborative insights.
+an array of business buzzwords, it responds with a random string of streamlined collaborative insights. For example:
+
+```
+james> yeah let's sync up later
+jargonbot> assertively optimize best-of-breed stakeholders
+```
 
 You can adjust the collection of trigger words by adding or removing terms from [this list](https://github.com/jtotoole/jargonbot/blob/master/scripts/jargonbot.coffee#L66).
 
